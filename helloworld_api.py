@@ -9,7 +9,7 @@ from protorpc import messages
 from protorpc import message_types
 from protorpc import remote
 
-# PROVA
+# Prova 2
 # If the request contains path or querystring arguments,
 # you cannot use a simple Message class.
 # Instead, you must use a ResourceContainer class
